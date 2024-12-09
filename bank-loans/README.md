@@ -1,26 +1,62 @@
-# Projects in Microsoft Excel
+# Bank Loans Analysis 
 
 ---
 
 ### Table of Contents
 
-- [Projects](#projects)
+- [Objective](#objective)
+- [Technologies](#technologies)
+- [Project Files](#project-files)
+- [Project Outcome](#project-outcome)
 - [License](#license)
 - [Author Info](#author-info)
 
 ---
 
-## Projects
+## Objective
 
-This repository contains my data analysis projects which I have worked using Microsoft Excel.
+- **Key Performance Indicators (KPIs)**
+    - Total Loan Applications
+    - Total Funded Amount (the amount of funds disbursed as loans)
+    - Total Loan Amount Received (the amount received from borrowers)
+    - Average Interest Rate
+    - Average Debt-to-Income (DTI) Ratio
 
-The following are the projects I have worked on
+[Back to the Top](#bank-loans-analysis)
 
-- [Coffee Sales Analysis](coffee-orders/README.md)
-- [Road Accidents Analysis](road-accidents/README.md)
-- [Bank Loans Analysis](bank-loans/README.md)
+---
 
-[Back to the Top](#projects-in-microsoft-excel)
+## Technologies
+
+- Microsoft Excel
+
+[Back to the Top](#bank-loans-analysis)
+
+---
+
+## Project Files
+
+The following are the files in this project.
+
+- [Bank Loans Data](data/BankLoanData.xlsx)
+
+#### Key Tasks
+
+- Perform data cleaning, data transformation on the bank loan data.
+- Ensure all columns represented correct data types.
+- Created appropriate charts to analyze key trends based on the business requirements.
+- Designed a visually appealing dashboard highlighting KPI's and proper charts.
+
+[Back to the Top](#bank-loans-analysis)
+
+---
+
+## Project Outcome
+
+![Bank Loans Summary Dashboard](images/SummaryDashboard.png)
+![Bank Loans Overview Dashboard](images/OverviewDashboard.png)
+
+[Back to the Top](#bank-loans-analysis)
 
 ---
 
@@ -48,7 +84,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back to the Top](#projects-in-microsoft-excel)
+[Back to the Top](#bank-loans-analysis)
 
 ---
 
@@ -57,4 +93,4 @@ SOFTWARE.
 - Github - [pras306](https://github.com/pras306)
 - LinkedIn - [Prasanna Sriram](https://www.linkedin.com/in/prasanna-sriram/)
 
-[Back to the Top](#projects-in-microsoft-excel)
+[Back to the Top](#bank-loans-analysis)
